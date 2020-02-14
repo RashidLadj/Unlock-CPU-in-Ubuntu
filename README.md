@@ -6,7 +6,7 @@ CPU limited ( Lock ) to 798 MHz
 
   
 
-<p>Voici un code en C :</p>
+<p>attached the shell code to execute :</p>
 
 <pre><code>
     # Resolve problem cpu Lock in ubuntu
